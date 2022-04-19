@@ -2,7 +2,7 @@ const  aoijs = require("aoi.js");
 
 
 const bot = new aoijs.Bot({
-    token: "OTY1NzE0NjAzMzIzNTY4MTI4.Yl3Nzw.GvpN2bswQVR2guHsvSwux6O7w2o",
+    token: "Tutaj token...",
     prefix: "pickle", //Discord Bot Prefix
     intents: "all" //Discord Intents
     })
